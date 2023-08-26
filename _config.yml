@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Mary Liebig
+email: maryolivialiebig@gmail.com
+url: https://maryliebig.github.io
+description: "Mary Liebig's personal website"
+keywords: "Mary, Liebig"
+skills: "Software & Systems Engineer"
+meta_author: Liebig Mary
 
 # Google webmaster tools
 google_verify:
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/maryliebig1
   - title: facebook
     url:
   - title: stack-overflow
@@ -48,7 +48,7 @@ social:
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/maryliebig
 
 # Postal address (add as many lines as necessary)
 address:
