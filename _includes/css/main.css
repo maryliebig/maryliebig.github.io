@@ -256,7 +256,7 @@ section.success {
 @media (min-width: 640px) {
     .portfolio-flex-grid .portfolio-flex-row {
       display: flex;
-      flex-flow: row wrap;
+      flex-flow: row nowrap;
       align-items: stretch;
       justify-content: space-between;
     }
