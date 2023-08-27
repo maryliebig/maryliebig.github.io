@@ -6,6 +6,6 @@ img: school.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: BA Mathematics
+category: school
 description: Rice University class of 2022. BA Mathematics. Relevent Coursework: Calculus 1&2, Multivariate Calculus, Ordinary & Partial Differential Equations, Honors Linear Algebra, Real Analysis, Computational Complex Analysis, Abstract Algebra, Representation Theory, Ethics in Mathematics, Data Science, Advanced Sport Analytics, Advanced Baseball Analytics.
 ---
