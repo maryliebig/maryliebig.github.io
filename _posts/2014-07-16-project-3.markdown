@@ -8,5 +8,5 @@ alt: image-alt
 project-date: 
 client:
 category:
-description: <a href="https://www.kaggle.com/code/maryliebig/network-analysis-of-coverage-teams/notebook"><b>Network Analysis of Coverage Teams</b></a> <br> <i>NFL Big Data Bowl</i> <br> <small>January</small> 2022 <br> <br> <a href="https://arxiv.org/abs/2210.00508"><b>Lexicographically Least Square-Free Words</b></a> <br> <i>Polymath Jr. REU</i> <br> August 2021
+description: <a href="https://www.kaggle.com/code/maryliebig/network-analysis-of-coverage-teams/notebook"><b>Network Analysis of Coverage Teams</b></a> <br> <i>NFL Big Data Bowl</i> <br> <small>January 2022</small> <br> <br> <a href="https://arxiv.org/abs/2210.00508"><b>Lexicographically Least Square-Free Words</b></a> <br> <i>Polymath Jr. REU</i> <br> <small>August 2021</small>
 ---
