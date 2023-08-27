@@ -8,5 +8,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: "<b> <a href="https://www.kaggle.com/code/maryliebig/network-analysis-of-coverage-teams/notebook"> Network Analysis of Coverage Teams </a></b> <br> <i>NFL Big Data Bowl</i> <br> January 2022"
+description: "<b> [Network Analysis of Coverage Teams](https://www.kaggle.com/code/maryliebig/network-analysis-of-coverage-teams/notebook)</b> <br> <i>NFL Big Data Bowl</i> <br> January 2022"
 ---
