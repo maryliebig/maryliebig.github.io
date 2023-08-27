@@ -8,5 +8,5 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: Rice University. <br> BA Mathematics. <br> <br> Relevant Coursework: Single and Multivariate Calculus, Ordinary and Partial Differential Equations, Honors Linear Algebra, Real Analysis, Computational Complex Analysis, Abstract Algebra, Representation Theory, Mathematical Cryptography, Data Science, Advanced Sport Analytics, Advanced Baseball Analytics, Introduction to Cryptocurrency, Arabic, German, Russian, Portuguese
+description: Rice University. <br> BA Mathematics. <br> <br> Relevant Coursework -- Single and Multivariate Calculus, Ordinary and Partial Differential Equations, Honors Linear Algebra, Real Analysis, Computational Complex Analysis, Abstract Algebra, Representation Theory, Mathematical Cryptography, Data Science, Advanced Sport Analytics, Advanced Baseball Analytics, Introduction to Cryptocurrency, Arabic, German, Russian, Portuguese
 ---
