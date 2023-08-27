@@ -1,11 +1,12 @@
 ---
+title: Awards & Honors
 layout: default
 modal-id: 4
 date: 2014-07-15
 img: award.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date:
+client:
+category:
+description: "<b>Women in Sports Data Fellow</b> <br> <i>Houston Astros</i> <br> August 2022 <br> <br> <b>NFL Women's Forum Participant</b> <br> <i>National Football League</i> <br> March 2022 <br><br> <b>National Merit Scholarship Competition Finalist</b> <i>National Merit Scholarship Corporation</i> <br> April 2018 <br><br> <b>Iowa City Youth Human Rights Award</b> <br> <i>City of Iowa City</i> <br> May 2017"
 ---
