@@ -5,8 +5,8 @@ modal-id: 3
 date: 2014-07-16
 img: project.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: 
+client:
+category:
 description: <a href="https://www.kaggle.com/code/maryliebig/network-analysis-of-coverage-teams/notebook"><b>Network Analysis of Coverage Teams</b></a> <br> <i>NFL Big Data Bowl</i> <br> January 2022 <br> <br> <b>Lexicographically Least Square-Free Words</b> <br> <i>Polymath Jr. REU</i> <br> August 2021
 ---
