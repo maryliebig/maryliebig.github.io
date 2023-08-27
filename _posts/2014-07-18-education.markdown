@@ -8,5 +8,5 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: "<b>Rice University</b> <br> <b>BA Mathematics</b> <br> <br> <i>Relevant Coursework: Single & Multivariate Calculus, Ordinary & Partial Differential Equations, Honors Linear Algebra, Real Analysis, Computational Complex Analysis, Abstract Algebra, Representation Theory, Mathematical Cryptography, Data Science, Advanced Sport Analytics, Advanced Baseball Analytics, Introduction to Cryptocurrency, Arabic, German, Russian, Portuguese</i>"
+description: "<b>Rice University c/o 2022</b> <br> <b>BA Mathematics</b> <br> <br> <i>Relevant Coursework: Single & Multivariate Calculus, Ordinary & Partial Differential Equations, Honors Linear Algebra, Real Analysis, Computational Complex Analysis, Abstract Algebra, Representation Theory, Mathematical Cryptography, Data Science, Advanced Sport Analytics, Advanced Baseball Analytics, Introduction to Cryptocurrency, Arabic, German, Russian, Portuguese</i>"
 ---
