@@ -8,5 +8,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: <a href="https://www.kaggle.com/code/maryliebig/network-analysis-of-coverage-teams/notebook">Network Analysis of Coverage Teams</a>
+description: <a href="https://www.kaggle.com/code/maryliebig/network-analysis-of-coverage-teams/notebook"><b>Network Analysis of Coverage Teams</b></a>
 ---
