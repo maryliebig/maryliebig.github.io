@@ -8,5 +8,7 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: {Rice University}
+description: Rice University.  
+This is a line break.  
+Can you tell?
 ---
