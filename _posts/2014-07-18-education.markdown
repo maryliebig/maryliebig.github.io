@@ -8,5 +8,5 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: Rice University. <br> Does this work?
+description: Rice University. <br> BA Mathematics. <br> <br> Relevant Coursework: Calculus 1&2, Multivariate Calculus, Ordinary & 
 ---
