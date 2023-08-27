@@ -8,6 +8,5 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-line1: Rice University, class of 2022.  BA Mathematics.
-line2: Relevant Classwork: Class 1, Class 2, Class 3
+description: {Rice University}
 ---
