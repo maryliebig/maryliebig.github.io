@@ -9,5 +9,6 @@ project-date:
 client: 
 category: 
 description: Rice University, class of 2022. 
-             BA Mathematics.
+             \n BA Mathematics.
+             \n New Line
 ---
