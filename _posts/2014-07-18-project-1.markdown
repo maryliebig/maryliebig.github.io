@@ -4,8 +4,6 @@ modal-id: 1
 date: 2014-07-18
 img: school.png
 alt: image-alt
-project-date: 2018 - 2022
-client: Start Bootstrap
 category: BA Mathematics
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Rice University class of 2022. BA Mathematics. Relevent Coursework: Calculus 1&2, Multivariate Calculus, Ordinary & Partial Differential Equations, Honors Linear Algebra, Real Analysis, Computational Complex Analysis, Abstract Algebra, Representation Theory, Ethics in Mathematics, Data Science, Advanced Sport Analytics, Advanced Baseball Analytics.
 ---
