@@ -8,7 +8,5 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: Rice University, class of 2022. \
-              BA Mathematics. \
-              New Line
+description: Rice University, class of 2022.  BA Mathematics.  New Line
 ---
