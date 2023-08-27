@@ -209,7 +209,7 @@ section.success {
 
 #portfolio .portfolio-item .portfolio-link .caption {
     position: absolute;
-    width: 100%;
+    width: 50%;
     height: 100%;
     opacity: 0;
     background: rgba({{ site.color.primary-rgb }},.9);
