@@ -8,5 +8,5 @@ alt: image-alt
 project-date:
 client:
 category:
-description: "<b>Women in Sports Data Fellow</b> <br> <i>Houston Astros</i> <br> August 2022 <br> <br> <b>NFL Women's Forum Participant</b> <br> <i>National Football League</i> <br> March 2022 <br><br> <b>National Merit Scholarship Competition Finalist</b> <i>National Merit Scholarship Corporation</i> <br> April 2018 <br><br> <b>Iowa City Youth Human Rights Award</b> <br> <i>City of Iowa City</i> <br> May 2017"
+description: "<b>Women in Sports Data Fellow</b> <br> <i>Houston Astros</i> <br> <small>August 2022</small> <br> <br> <b>NFL Women's Forum Participant</b> <br> <i>National Football League</i> <br> <small>March 2022</small> <br><br> <b>National Merit Scholarship Competition Finalist</b> <i>National Merit Scholarship Corporation</i> <br> <small>April 2018</small> <br><br> <b>Iowa City Youth Human Rights Award</b> <br> <i>City of Iowa City</i> <br> <small>May 2017</small>"
 ---
