@@ -16,11 +16,8 @@
             <h2>{{ post.title }}</h2>
             <hr />
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-            {% if post.line1 %}
-            <p>{{ post.line1 }}</p>
-            {% endif %}
-            {% if post.line2 %}
-            <p>{{ post.line2 }}</p>
+            {% if post.description %}
+            <p>{{ post.description }}</p>
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
